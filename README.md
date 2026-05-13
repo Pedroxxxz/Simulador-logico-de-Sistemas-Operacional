@@ -17,11 +17,11 @@ Shell interativo,
 
 ⸻
 
-#⚒️Tecnologias
+⚒️Tecnologias
 
 Python
-______ 
+⸻
 
-#🎯Objetivo
+🎯Objetivo
 
 Projeto criado para praticar conceitos de Sistemas Operacionais de forma simples e prática.
