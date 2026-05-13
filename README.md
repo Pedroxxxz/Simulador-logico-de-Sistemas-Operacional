@@ -2,7 +2,7 @@
 
 Simulador de Sistema Operacional desenvolvido em Python com foco educacional, utilizando conceitos básicos de Sistemas Operacionais.
 
-⸻
+
 
  # 📌Funcionalidades
 
@@ -15,12 +15,11 @@ Fork de processos,
 Gerenciamento de recursos,
 Shell interativo,
 
-⸻
 
 ⚒️Tecnologias
 
 Python
-⸻
+
 
 🎯Objetivo
 
