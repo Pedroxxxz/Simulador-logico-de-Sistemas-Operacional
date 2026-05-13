@@ -1,10 +1,10 @@
-#  PyOS
+#  🖥️PyOS
 
 Simulador de Sistema Operacional desenvolvido em Python com foco educacional, utilizando conceitos básicos de Sistemas Operacionais.
 
 ⸻
 
- Funcionalidades
+ # 📌Funcionalidades
 
 Criação de processos,
 Escalonamento Round Robin,
@@ -17,6 +17,6 @@ Shell interativo,
 
 ⸻
 
- Tecnologias
+#⚒️ Tecnologias
 
 Python
